@@ -1,4 +1,4 @@
-module github.com/hyperledger/fabric-protos-go
+module gitlab.n-t.io/ntbc/fabric-protos-go
 
 go 1.12
 
