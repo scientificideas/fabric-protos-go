@@ -1,4 +1,4 @@
-module gitlab.n-t.io/ntbc/fabric-protos-go
+module github.com/scientificideas/fabric-protos-go
 
 go 1.12
 
