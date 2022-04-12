@@ -5,3 +5,5 @@
 *#
 .#*
 .*.sw*
+.idea
+.vscode
